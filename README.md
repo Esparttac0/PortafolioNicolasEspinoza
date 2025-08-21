@@ -4,9 +4,9 @@
 
 ## Titulado en Técnico Analista Programador
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Sigo en constante aprendizaje de lenguajes, S.O y frameworks
+- 📚 Con el front end siempre probamos cosas llamativas y atractivas visualmente.
+- 💪🏼 Proactivo, trabajo en equipo, autoaprendizaje son las cualidades que más destaco de mi 
 
 ---
 
