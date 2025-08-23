@@ -6,7 +6,9 @@
 
 - 👨‍💻 Sigo en constante aprendizaje de lenguajes, S.O y frameworks
 - 📚 Con el front end siempre probamos cosas llamativas y atractivas visualmente.
-- 💪🏼 Proactivo, trabajo en equipo, autoaprendizaje son las cualidades que más destaco de mi 
+- 💪🏼 Proactivo, trabajo en equipo, autoaprendizaje son las cualidades que más destaco de mi.
+-☝️ Actualmente busco algún lugar donde poner en práctica todo lo que sé en front end, pero dispuesto a aprender más cosasS
+- 📍Valdivia/Chile.
 
 ---
 
