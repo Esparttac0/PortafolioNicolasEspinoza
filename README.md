@@ -7,9 +7,10 @@
 - 👨‍💻 Sigo en constante aprendizaje de lenguajes, S.O y frameworks
 - 📚 Con el front end siempre probamos cosas llamativas y atractivas visualmente.
 - 💪🏼 Proactivo, trabajo en equipo, autoaprendizaje son las cualidades que más destaco de mi.
--☝️ Actualmente busco algún lugar donde poner en práctica todo lo que sé en front end, pero dispuesto a aprender más cosasS
+- ☝️ Actualmente busco algún lugar donde poner en práctica todo lo que sé en front end, pero dispuesto a aprender más cosas.
 - 📍Valdivia/Chile.
-
+- Linkedin: https://www.linkedin.com/in/nicolas-eduardo-espinoza-garrido-a3493a343/
+- Gmail: nicolas.espinozag99@gmail.com
 ---
 
 ##### Los lenguaje que más ocupo.
