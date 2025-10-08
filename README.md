@@ -3,6 +3,8 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Titulado en Técnico Analista Programador
+## Curso de IoT 
+## Curso de Ciberseguridad en Sistemas Operativos (Windows Server y Linux)
 
 - 👨‍💻 Sigo en constante aprendizaje de lenguajes, S.O y frameworks
 - 📚 Con el front end siempre probamos cosas llamativas y atractivas visualmente.
@@ -21,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Alguna de las tecnologías que más ocupo
+##### Alguna de las tecnologías que más ocupo.
 
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
@@ -33,3 +35,5 @@
 <br/>
 
 ---
+
+#### Proyectos que he realizado.
