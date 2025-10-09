@@ -36,4 +36,12 @@
 
 ---
 
-#### Proyectos que he realizado.
+<p align="center">
+  <a href="https://www.pjudvaldivia.cl/">
+    <img src="assets/proyectos/pjud-valdivia.png"
+         alt="Portal Corte de Apelaciones de Valdivia (PJUD Valdivia)"
+         width="900">
+  </a>
+</p>
+
+<p align="center"><em>Portal público de la Corte de Apelaciones de Valdivia</em></p>
