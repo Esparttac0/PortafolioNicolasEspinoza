@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://www.pjudvaldivia.cl/">
-    <img src="assets/proyectos/pjud-valdivia.png"
+    <img src="./pjud.png"
          alt="Portal Corte de Apelaciones de Valdivia (PJUD Valdivia)"
          width="900">
   </a>
